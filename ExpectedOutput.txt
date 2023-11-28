@@ -1,0 +1,144 @@
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Problem 01
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Input parameter (int):
+2
+Output:
+QRRQ
+
+Input parameter (int):
+4
+Output:
+QRRQRQQRRQQRQRRQ
+
+Input parameter (int):
+6
+Output:
+QRRQRQQRRQQRQRRQRQQRQRRQQRRQRQQRRQQRQRRQQRRQRQQRQRRQRQQRRQQRQRRQ
+
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Problem 02
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Input parameter (int):
+-1
+Parent class output:
+Invalid input parameter.
+Child class output:
+Invalid input parameter.
+
+Input parameter (int):
+0
+Parent class output:
+  *
+Child class output:
+  1
+
+Input parameter (int):
+1
+Parent class output:
+   *
+  * *
+Child class output:
+   1
+  1 1
+
+Input parameter (int):
+2
+Parent class output:
+    *
+   * *
+  * * *
+Child class output:
+    1
+   1 1
+  1 2 1
+
+Input parameter (int):
+3
+Parent class output:
+     *
+    * *
+   * * *
+  * * * *
+Child class output:
+     1
+    1 1
+   1 2 1
+  1 3 3 1
+
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Problem 03
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Input parameters for constructor:
+Name (String): T800
+Initial direction (char): N
+Initial x location (int): 10
+Initial y location (int): 12
+Amount of iterations (int): 5
+Output:
+T800 is standing at (13, 12) and facing E.
+T800 is standing at (13, 15) and facing N.
+T800 is standing at (16, 15) and facing E.
+T800 is standing at (16, 18) and facing N.
+T800 is standing at (19, 18) and facing E.
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Problem 04
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Input 2D array (int[][]):
+1 2 
+3 4 
+Output 2D array:
+1 3 
+2 4 
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Problem 05
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Input text (String):
+hello
+Input key (int):
+1
+Output hidden text:
+ifmmp
+Output unhidden text:
+hello
+
+Input text (String):
+the trooper
+Input key (int):
+0
+Output hidden text:
+the trooper
+Output unhidden text:
+the trooper
+
+Input text (String):
+midnight train to georgia
+Input key (int):
+5
+Output hidden text:
+rnisnlmy ywfns yt ljtwlnf
+Output unhidden text:
+midnight train to georgia
+
+Input text (String):
+just one look
+Input key (int):
+7
+Output hidden text:
+qbza vul svvr
+Output unhidden text:
+just one look
+
+Input text (String):
+genius of love
+Input key (int):
+27
+Output hidden text:
+hfojvt pg mpwf
+Output unhidden text:
+genius of love
+
